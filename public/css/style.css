@@ -1,0 +1,17 @@
+.side_bar{
+    background-color: #616161;
+    color: #ffffff;
+    text-align: center;
+}
+
+.menu_item {
+    background-color:#BDBDBD;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    color: #000;
+}
+
+.menu_item i {
+    color: #E65100;
+}
